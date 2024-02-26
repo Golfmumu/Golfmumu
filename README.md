@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 How to reach me **preechaya.teeravickasit@gmail.com**
+- 📫 How to reach me **preechaya.te@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
